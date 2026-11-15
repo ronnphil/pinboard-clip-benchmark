@@ -1,0 +1,7 @@
+imgs/
+annotations/
+ann.zip
+bench/
+__pycache__/
+.pytest_cache/
+*.pyc
